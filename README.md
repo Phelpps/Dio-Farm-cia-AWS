@@ -3,8 +3,6 @@ Data: 11 de Março de 2026
 
 Empresa: Abstergo Industries
 
-Responsável: Kroo (Game Master & Cloud Developer)
-
 1. Introdução
 Este relatório apresenta o processo de implementação de ferramentas na Abstergo Industries. O objetivo principal do projeto foi elencar 3 serviços AWS estratégicos para realizar a diminuição de custos operacionais imediatos, migrando de uma infraestrutura tradicional para um modelo escalável e inteligente.
 
